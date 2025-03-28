@@ -1,3 +1,4 @@
+# Wrocław Real Estate Scraper
 This script provides listing data from all listings that are not archived from the website https://wroclaw.nieruchomosci-online.pl/.
 Later aforementioned data is put to an SQlite database for further use. 
 
